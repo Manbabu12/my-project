@@ -1,0 +1,8 @@
+
+<suite name="testing">
+	<test name="testngTest">
+		<classes>
+			<class name="org.naic.mfl.se.challenge.WebTest" />
+		</classes>
+	</test>
+</suite>
